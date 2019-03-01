@@ -1,10 +1,5 @@
-Hi...
-I'm prasad.
-In this im giving you some python codes(programs) which are very basic and fundamentals to learn.
-
-First thing first im assuming that you are familiar with python2/python3 basic syntax and how to run a python code in windows or linux 
-
-Also im giving tutorials(description) regarding some important function you are going to use or see alot in the programs i gave
+I'm asuming that you guys know the basic syntax of python2/3 how to take input and print and loops
+im giving you some info about important function i used alot in the programs 
 
 --------------------------------------------------------------------------------------------------------------------------------
 Reduce():
