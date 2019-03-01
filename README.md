@@ -30,9 +30,8 @@ map(fun, iter)
 Parameters :
 ----------
 fun : It is a function to which map passes each element of given iterable.
------
-iter : It is a iterable which is to be mapped.
------
-NOTE : You can pass one or more iterable to the map() function.
 
+iter : It is a iterable which is to be mapped.
+
+NOTE : You can pass one or more iterable to the map() function.
 --------------------------------------------------------------------------------------------------------------------------------------
